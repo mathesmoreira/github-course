@@ -17,3 +17,5 @@ for t in tickers:
 plt.ylabel('NORMALIZED PRICES')
 plt.xlabel('DATE')
 plt.show()
+
+#teste git
